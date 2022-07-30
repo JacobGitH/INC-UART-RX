@@ -1,2 +1,1 @@
-# INC-UART-RX
-Projekt na předmět INC
+Projekt na UART ve VHDL
